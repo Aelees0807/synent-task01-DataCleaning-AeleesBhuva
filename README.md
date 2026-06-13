@@ -30,4 +30,4 @@ The result is a clean dataset ready for analysis. The final dataset structure co
 ## Deliverables Included
 * Jupyter Notebook containing the full code.
 * Original Titanic Dataset.
-* Demonstration Video Link: `coming soon`
+* Demonstration Video Link: `https://drive.google.com/file/d/1KfX0aDC3mhh3_u9UqvDQNNCmeMvjgcK2/view?usp=sharing`
